@@ -42,8 +42,8 @@ module.exports = {
   // 衬线字体 例如'"LXGW WenKai"'
   FONT_SERIF: [
     // '"LXGW WenKai"',
-    '"LXGW Bright Medium"',
     '"LXGW Bright Code"',
+    '"LXGW Bright Medium"',
     '"Times New Roman"',
     'Bitter',
     '"Noto Serif SC"',
